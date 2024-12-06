@@ -146,7 +146,7 @@ header nav .form i {
 /* end header  */
 /* start landing */
 .landing {
-  background-image: url(./images/landing.jpg);
+  background-image: url(../images/landing.jpg);
   min-height: 100vh;
   background-size: cover;
   position: relative;
@@ -312,7 +312,7 @@ header nav .form i {
 /* END SERVICES   */
 /* start design  */
 .design {
-  background-image: url(./images/design-features.jpg);
+  background-image: url(../images/design-features.jpg);
   height: calc(100vh - 100px);
   position: relative;
   background-size: cover;
@@ -604,7 +604,7 @@ header nav .form i {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
-  background-image: url("/images/stats.png");
+  background-image: url("../images/stats.png");
   background-size: cover;
   position: relative;
 }
@@ -881,7 +881,7 @@ header nav .form i {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/images/quote.jpg);
+  background-image: url(../images/quote.jpg);
   filter: grayscale(1);
   background-size: cover;
   position: relative;
@@ -1028,7 +1028,7 @@ header nav .form i {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
@@ -1213,7 +1213,7 @@ header nav .form i {
 /* start footer  */
 footer {
   padding: 30px 0;
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(../images/subscribe.jpg);
   background-size: cover;
   align-items: center;
   text-align: center;
